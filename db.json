@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "name": "Syed Bilal Haider",
+      "email": "bilal@gmail.com",
+      "password": "99999999",
+      "gender": "male",
+      "profession": "pmanager"
+    },
+    {
+      "id": 8,
+      "name": "zain sajjad",
+      "email": "zainsajjad@gmail.com",
+      "password": "00000000",
+      "gender": "male",
+      "profession": "professional react.js developer"
+    },
+    {
+      "name": "Bilal",
+      "email": "ranamujeebhassan1@gmail.com",
+      "password": "123456788",
+      "gender": "male",
+      "profession": "website deveveloper",
+      "confirm_password": "123456788",
+      "id": 9
+    }
+  ]
+}
